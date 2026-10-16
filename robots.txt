@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thmhassan.github.io/stayreset-support/sitemap.xml
